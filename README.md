@@ -4,8 +4,6 @@
 
 ---
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-juvenal&theme=neon)
-
----
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wenderson-juvenal&show_icons=true&theme=neon)
 
 ---
