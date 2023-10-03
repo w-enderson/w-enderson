@@ -1,4 +1,8 @@
-### Olá, sou Wenderson :)👋
+<div id="header" align="center">
+  <h2>Olá, sou Wenderson :)👋 </h2>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 (espaço reservado para textos futuros)
 
