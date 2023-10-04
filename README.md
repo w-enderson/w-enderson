@@ -30,15 +30,12 @@
 </div>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-juvenal&theme=neon" />
-<img src="https://github-readme-stats.vercel.app/api?username=wenderson-juvenal&show_icons=true&theme=neon" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=wenderson-juvenal&theme=windows-dark&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-juvenal&theme=neon)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-juvenal&theme=neon)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wenderson-juvenal&show_icons=true&theme=neon)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wenderson-juvenal&theme=windows-dark&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wenderson-juvenal&theme=windows-dark&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
 
 
+---
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wenderson-juvenal&bg_color=0a2420&color=ffffff&line=00fffb&point=ffffff&area=true&hide_border=true)
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
