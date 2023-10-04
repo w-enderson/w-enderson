@@ -16,8 +16,8 @@
 </div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp; 
@@ -30,6 +30,9 @@
 </div>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-juvenal&theme=neon" />
+<img src="https://github-readme-stats.vercel.app/api?username=wenderson-juvenal&show_icons=true&theme=neon" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=wenderson-juvenal&theme=windows-dark&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-juvenal&theme=neon)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wenderson-juvenal&show_icons=true&theme=neon)
